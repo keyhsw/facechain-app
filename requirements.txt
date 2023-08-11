@@ -1,0 +1,3 @@
+slugify
+python-slugify
+torchsde
